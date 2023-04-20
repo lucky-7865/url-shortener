@@ -34,7 +34,7 @@ Start the server
 
 The server will get Start on localhost:3000. You can use any API platform like POSTMAN to interact with the application and shorten the URLs
 
-![url-shortener](https://user-images.githubusercontent.com/87746680/233455744-d2e11dcf-bb66-4f12-8332-67ba4483a815.PNG)
+![url-shortener](https://user-images.githubusercontent.com/87746680/233461582-44ebd49e-d2f6-4867-98e2-849f4e5576fa.PNG)
 
 As you can see we shorten up a big URL. Instead of long and complex URL we can use this short URL, which will reduce the storage and bandwith as it has fewer characters. Thus it is more efficient and use less resources over the network.
 
